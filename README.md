@@ -1,4 +1,4 @@
-# responsivedesign
+# Responsive Design
 
 A new Flutter project.
 
